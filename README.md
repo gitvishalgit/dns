@@ -78,3 +78,6 @@ Google DNS does recursive lookup.
 Finds and returns IP 142.250.77.100.
 
 Browser uses this IP to contact Google’s web server.
+
+![Uploading image.png…]()
+
